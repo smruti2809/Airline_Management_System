@@ -1,6 +1,6 @@
 # SOFTWARE REQUIREMENTS SPECIFICATION
 # AIRLINE MANAGEMENT SYSTEM
-# Version 1.0
+# Version 2.0
 
 ## 1. INTRODUCTION
 ### 1.1 Purpose
@@ -16,3 +16,13 @@ This document describes requirements for Airline Management System.
 - Search for available flights
 - Make reservations
 - Cancel bookings
+
+### 2.3 Passenger Management Module
+- Register new passengers
+- Update passenger profiles
+- View passenger details
+
+### 2.4 Payment Management Module
+- Process payments
+- Generate payment receipts
+- Handle refunds
