@@ -4,7 +4,7 @@
 
 **Prepared by:**
 Diya Singh, Smruti Desai, Anushka Pawar, Pushkar Ghodke
-RAIT
+
 
 ---
 
