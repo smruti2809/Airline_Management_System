@@ -3,7 +3,7 @@
 ### Version 1.0 (approved)
 
 **Prepared by:**
-Diya Singh, Smruti Desai, Anushka Pawar, Pushkar Ghodke
+Smruti Desai, Anushka Pawar,Diya Singh,Pushkar Ghodke
 
 
 ---
